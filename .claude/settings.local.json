@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan *)",
+      "Bash(findstr \"HomeController\")",
+      "Bash(findstr \"DONE\\\\|ERROR\")",
+      "Bash(composer require *)",
+      "Bash(findstr \"cart\\\\|home\\\\|product\")",
+      "Bash(findstr \"checkout\")",
+      "Bash(python -c \"import sys,json; tables=[t['name'] for t in json.load\\(sys.stdin\\).get\\('tables',[]\\)]; print\\('\\\\n'.join\\(tables\\)\\)\")",
+      "Bash(findstr \"categories\\\\|products\\\\|brands\")"
+    ]
+  }
+}

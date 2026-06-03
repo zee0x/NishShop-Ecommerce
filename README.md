@@ -7,3 +7,7 @@ This project is a fully functional e-commerce application built with Laravel and
 * **Student ID:** 20222022448
 * **University:** Nişantaşı University
 * **Department:** Software Engineering
+
+🛠 Admin Access (For Evaluation)
+Email: 20222022448@std.nisantasi.edu.tr
+Password: [123123]
